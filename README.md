@@ -22,7 +22,7 @@ This project implements an AI-powered hotel booking assistant using the LiveKit 
 ## Installation
 1. **Clone the Repository**:
    ```bash
-   git clone <repository_url>
+   git clone https://github.com/pavan091220002/Hotel-voice-bot
    cd Hotel-voice-bot
    ```
 
